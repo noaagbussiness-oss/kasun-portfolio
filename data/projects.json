@@ -340,5 +340,33 @@
     "order": 15,
     "updatedAt": "2026-11-11T14:09:41.710Z",
     "createdAt": "2026-11-11T14:09:41.710Z"
+  },
+  {
+    "id": "nexora-creative-studio-brand-identity",
+    "title": "Nexora – Creative Studio Brand Identity",
+    "category": "branding-logo-design",
+    "description": "A complete brand identity concept for Nexora Creative Studio. The project includes primary and alternative logo designs, brand icon, colour palette, typography and branded applications. The visual identity uses a bold black and yellow colour combination to communicate creativity, professionalism and modern design. The presentation showcases business cards, stationery, packaging, apparel, signage and digital branding applications.\n\nThis is a self-initiated brand identity concept.",
+    "tags": [
+      "Brand Identity",
+      "Logo Design",
+      "Creative Studio",
+      "Corporate Branding",
+      "Visual Identity",
+      "Stationery Design",
+      "Packaging Design"
+    ],
+    "media": "assets/projects/nexora-creative-studio-brand-identity/1794406283885-nexora-black-and-yellow-brand-showcase.png",
+    "mediaType": "image",
+    "layout": "standard",
+    "published": true,
+    "featured": true,
+    "client": "Personal Concept – Nexora",
+    "year": "2026",
+    "role": "",
+    "tools": "",
+    "externalUrl": "",
+    "order": 16,
+    "updatedAt": "2026-11-11T14:11:31.171Z",
+    "createdAt": "2026-11-11T14:11:31.171Z"
   }
 ]
