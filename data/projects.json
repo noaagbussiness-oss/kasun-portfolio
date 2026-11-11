@@ -18,5 +18,25 @@
     "order": 1,
     "updatedAt": "2026-11-11T10:55:56.940Z",
     "createdAt": "2026-11-11T10:55:56.940Z"
+  },
+  {
+    "id": "dj-vibez-brand-new-song",
+    "title": "DJ VibeZ – Brand New Song Launch",
+    "category": "design",
+    "description": "A vibrant music release promotional design created for the DJ VibeZ brand concept. Featuring purple and pink neon lighting, bold brush typography and modern music-inspired visuals, this artwork communicates an energetic new song launch.",
+    "tags": [],
+    "media": "assets/projects/dj-vibez-brand-new-song/1794394616629-neon-dj-vibez-brand-new-song.png",
+    "mediaType": "image",
+    "layout": "standard",
+    "published": true,
+    "featured": true,
+    "client": "Personal Concept – DJ VibeZ",
+    "year": "2026",
+    "role": "",
+    "tools": "",
+    "externalUrl": "",
+    "order": 2,
+    "updatedAt": "2026-11-11T10:57:00.742Z",
+    "createdAt": "2026-11-11T10:57:00.742Z"
   }
 ]
