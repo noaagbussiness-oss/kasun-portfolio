@@ -158,5 +158,32 @@
     "order": 8,
     "updatedAt": "2026-11-11T11:07:43.556Z",
     "createdAt": "2026-11-11T11:05:22.978Z"
+  },
+  {
+    "id": "naturea-lavender-glow-skincare",
+    "title": "Naturéa – Lavender Glow Skincare Advertisement",
+    "category": "design",
+    "description": "A luxury skincare advertising concept created for Naturéa Skincare. This design showcases a Lavender Glow moisturizing cream with a premium lavender and purple visual identity. Featuring elegant product presentation, botanical elements, soft lighting and sophisticated typography, the artwork communicates a natural beauty and skincare brand concept.\nThis is a speculative portfolio project. Product claims and brand details are illustrative.\n Copy",
+    "tags": [
+      "Skincare Advertisement",
+      "Beauty Branding",
+      "Product Advertising",
+      "Lavender Design",
+      "Cosmetics",
+      "AI Rendering"
+    ],
+    "media": "assets/projects/naturea-lavender-glow-skincare/1794405274558-lumiskin-lavender-glow-advertisement.png",
+    "mediaType": "image",
+    "layout": "standard",
+    "published": true,
+    "featured": false,
+    "client": "Personal Concept – Naturéa",
+    "year": "2026",
+    "role": "",
+    "tools": "",
+    "externalUrl": "",
+    "order": 9,
+    "updatedAt": "2026-11-11T13:54:48.000Z",
+    "createdAt": "2026-11-11T13:54:48.000Z"
   }
 ]
