@@ -505,5 +505,25 @@
     "order": 21,
     "updatedAt": "2026-11-11T15:18:10.318Z",
     "createdAt": "2026-11-11T15:18:10.318Z"
+  },
+  {
+    "id": "sasa",
+    "title": "sasa",
+    "category": "video",
+    "description": "sas",
+    "tags": [],
+    "media": "assets/projects/sasa/1794412163291-video-1.mp4",
+    "mediaType": "video",
+    "layout": "standard",
+    "published": true,
+    "featured": false,
+    "client": "",
+    "year": "2026",
+    "role": "",
+    "tools": "",
+    "externalUrl": "",
+    "order": 22,
+    "updatedAt": "2026-11-11T15:49:37.646Z",
+    "createdAt": "2026-11-11T15:49:37.646Z"
   }
 ]
