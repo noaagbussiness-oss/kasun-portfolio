@@ -20,27 +20,5 @@
     "tools": "CapCut Pro",
     "externalUrl": "",
     "order": 2
-  },
-  {
-    "id": "social-media-package",
-    "title": "Educational Social Media Design Package",
-    "category": "design",
-    "description": "A coordinated social-media asset package combining educational design, promotional consistency and audience-focused visual communication.",
-    "tags": [
-      "Graphic Design",
-      "Social Media",
-      "Brand Assets"
-    ],
-    "media": "images/work3.jpg",
-    "mediaType": "image",
-    "layout": "standard",
-    "published": true,
-    "featured": false,
-    "client": "Sample Project",
-    "year": "2026",
-    "role": "Graphic Designer",
-    "tools": "Design Suite",
-    "externalUrl": "",
-    "order": 4
   }
 ]
