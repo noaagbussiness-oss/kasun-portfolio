@@ -28,5 +28,10 @@
     "id": "motion-graphics-animation",
     "label": "Motion Graphics & Animation",
     "order": 6
+  },
+  {
+    "id": "branding-logo-design",
+    "label": "Branding & Logo Design",
+    "order": 7
   }
 ]
