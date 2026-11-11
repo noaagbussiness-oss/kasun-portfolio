@@ -129,14 +129,14 @@
     "mediaType": "image",
     "layout": "standard",
     "published": true,
-    "featured": false,
+    "featured": true,
     "client": "Personal Concept – Nexora Motors",
     "year": "2026",
     "role": "",
     "tools": "",
     "externalUrl": "",
     "order": 7,
-    "updatedAt": "2026-11-11T11:04:12.632Z",
+    "updatedAt": "2026-11-11T15:40:59.878Z",
     "createdAt": "2026-11-11T11:04:12.632Z"
   },
   {
