@@ -185,5 +185,32 @@
     "order": 9,
     "updatedAt": "2026-11-11T13:54:48.000Z",
     "createdAt": "2026-11-11T13:54:48.000Z"
+  },
+  {
+    "id": "glowbella-natural-glow",
+    "title": "GlowBella – Natural Glow Beauty Cream",
+    "category": "design",
+    "description": "A premium beauty cream advertising concept for GlowBella Skincare. Designed with an elegant pink and white colour palette, the artwork combines beauty-focused lifestyle imagery, attractive product presentation, floral elements and modern promotional typography. Created to represent a feminine and luxurious skincare brand identity.\n\nThis is a speculative portfolio project. Product details and claims are illustrative.",
+    "tags": [
+      "Beauty Advertisement",
+      "Skincare",
+      "Cosmetics Branding",
+      "Pink Design",
+      "Product Promotion",
+      "AI Advertising"
+    ],
+    "media": "assets/projects/glowbella-natural-glow/1794405374966-glowbella-natural-glow-skincare-ad.png",
+    "mediaType": "image",
+    "layout": "standard",
+    "published": true,
+    "featured": false,
+    "client": "Personal Concept – GlowBella",
+    "year": "2026",
+    "role": "",
+    "tools": "",
+    "externalUrl": "",
+    "order": 10,
+    "updatedAt": "2026-11-11T13:56:35.305Z",
+    "createdAt": "2026-11-11T13:56:35.305Z"
   }
 ]
