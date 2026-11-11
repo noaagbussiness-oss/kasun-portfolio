@@ -98,5 +98,25 @@
     "order": 5,
     "updatedAt": "2026-11-11T11:00:45.932Z",
     "createdAt": "2026-11-11T11:00:45.932Z"
+  },
+  {
+    "id": "nexora-complete-car-care",
+    "title": "Nexora Motors – Complete Car Care Solutions",
+    "category": "design",
+    "description": "A professional automotive service advertising concept for Nexora Motors. The design presents five major service categories, including general servicing, brake services, mechanical repairs, tyre and wheel care, and car washing and detailing. A bold red, black and white visual identity communicates reliability and professional automotive care.",
+    "tags": [],
+    "media": "assets/projects/nexora-complete-car-care/1794394892653-nexora-motors-complete-car-care-poster.png",
+    "mediaType": "image",
+    "layout": "standard",
+    "published": true,
+    "featured": false,
+    "client": "Personal Concept – Nexora Motors",
+    "year": "2026",
+    "role": "",
+    "tools": "",
+    "externalUrl": "",
+    "order": 6,
+    "updatedAt": "2026-11-11T11:01:58.071Z",
+    "createdAt": "2026-11-11T11:01:58.071Z"
   }
 ]
