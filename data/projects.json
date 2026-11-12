@@ -757,5 +757,36 @@
     "order": 29,
     "updatedAt": "2026-11-12T11:18:21.233Z",
     "createdAt": "2026-11-12T11:18:21.233Z"
+  },
+  {
+    "id": "ada-derana-education-seminar",
+    "title": "Ada Derana Education Seminar – Avissawella",
+    "category": "photo",
+    "description": "A professional event photography project covering the Ada Derana Education Seminar in Avissawella.\n\nThis collection captures meaningful moments from the educational event, including student participation, interactions, learning activities, and memorable highlights.\n\nThrough candid photography, natural compositions, and creative storytelling, the project documents the atmosphere and experiences of the seminar, preserving special memories for participants and organizers.\n\nCaptured by Frames By Kasun – Photography & Videography.",
+    "tags": [
+      "Event Photography",
+      "Education Seminar",
+      "Ada Derana",
+      "Avissawella",
+      "Student Photography",
+      "Candid Photography",
+      "Seminar Coverage",
+      "Event Highlights",
+      "Documentary Photography",
+      "Frames By Kasun"
+    ],
+    "media": "assets/projects/ada-derana-education-seminar/1794482401052-screenshot-2026-11-12-164854.png",
+    "mediaType": "image",
+    "layout": "standard",
+    "published": true,
+    "featured": false,
+    "client": "Ada Derana Education Seminar",
+    "year": "2026",
+    "role": "",
+    "tools": "",
+    "externalUrl": "",
+    "order": 30,
+    "updatedAt": "2026-11-12T11:20:05.860Z",
+    "createdAt": "2026-11-12T11:20:05.860Z"
   }
 ]
