@@ -556,14 +556,14 @@
     "mediaType": "video",
     "layout": "standard",
     "published": true,
-    "featured": false,
+    "featured": true,
     "client": "Aqualite Water",
     "year": "2026",
     "role": "",
     "tools": "",
     "externalUrl": "",
     "order": 23,
-    "updatedAt": "2026-11-12T06:30:15.916Z",
+    "updatedAt": "2026-11-12T06:31:08.979Z",
     "createdAt": "2026-11-12T06:30:15.917Z"
   }
 ]
