@@ -565,5 +565,36 @@
     "order": 23,
     "updatedAt": "2026-11-12T06:31:08.979Z",
     "createdAt": "2026-11-12T06:30:15.917Z"
+  },
+  {
+    "id": "gem-zelonia-blue-sapphire",
+    "title": "Gem Zelonia – The Beauty of Sri Lankan Blue Sapphire",
+    "category": "video",
+    "description": "A premium cinematic advertisement created for Gem Zelonia, showcasing the elegance and beauty of Sri Lankan blue sapphire gemstones. The video combines stunning AI-generated cinematic visuals, Sri Lankan heritage-inspired landscapes, luxury jewellery close-ups, elegant model shots, and premium product packaging. Featuring sapphire rings and earrings, the commercial highlights the brand's luxury identity through sophisticated storytelling, atmospheric lighting, and detailed product presentation. Created to build brand awareness and present Sri Lankan gemstone jewellery to a premium audience.",
+    "tags": [
+      "Gem Zelonia",
+      "Blue Sapphire",
+      "Sri Lankan Gems",
+      "Jewellery Advertisement",
+      "AI Commercial",
+      "Luxury Branding",
+      "AI Video Generation",
+      "Cinematic Advertising",
+      "Product Showcase",
+      "Luxury Jewellery"
+    ],
+    "media": "assets/projects/gem-zelonia-blue-sapphire/1794468545736-gem-ad-1-1-1.mp4",
+    "mediaType": "video",
+    "layout": "standard",
+    "published": true,
+    "featured": true,
+    "client": "Gem Zelonia (Concept Advertisement)",
+    "year": "2026",
+    "role": "",
+    "tools": "",
+    "externalUrl": "",
+    "order": 24,
+    "updatedAt": "2026-11-12T07:29:31.350Z",
+    "createdAt": "2026-11-12T07:29:31.350Z"
   }
 ]
