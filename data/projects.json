@@ -725,5 +725,37 @@
     "order": 28,
     "updatedAt": "2026-11-12T10:15:24.415Z",
     "createdAt": "2026-11-12T10:15:24.415Z"
+  },
+  {
+    "id": "first-step-award-ceremony",
+    "title": "First Step – Award Ceremony | Event Photography",
+    "category": "photo",
+    "description": "A beautiful collection of event photographs captured during the First Step Award Ceremony. This project focuses on documenting special moments, children's achievements, award presentations, candid expressions, and memorable highlights throughout the event.\n\nThrough creative compositions, professional event coverage, and natural storytelling, the photography captures the emotions, excitement, and happiness of this special occasion.\n\nThe project reflects a passion for event photography and preserving meaningful memories through timeless visual storytelling.",
+    "tags": [
+      "Event Photography",
+      "Award Ceremony",
+      "First Step",
+      "Kids Photography",
+      "Candid Photography",
+      "Event Coverage",
+      "Professional Photography",
+      "Photography Portfolio",
+      "Special Moments",
+      "Children Events",
+      "Photography by Kasun"
+    ],
+    "media": "assets/projects/first-step-award-ceremony/1794482298020-screenshot-2026-11-12-163656.png",
+    "mediaType": "image",
+    "layout": "standard",
+    "published": true,
+    "featured": false,
+    "client": "First Step",
+    "year": "2025",
+    "role": "",
+    "tools": "",
+    "externalUrl": "",
+    "order": 29,
+    "updatedAt": "2026-11-12T11:18:21.233Z",
+    "createdAt": "2026-11-12T11:18:21.233Z"
   }
 ]
