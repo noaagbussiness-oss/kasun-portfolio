@@ -788,5 +788,36 @@
     "order": 30,
     "updatedAt": "2026-11-12T11:20:05.860Z",
     "createdAt": "2026-11-12T11:20:05.860Z"
+  },
+  {
+    "id": "outdoor-portrait-lifestyle-photoshoot",
+    "title": "Outdoor Portrait & Lifestyle Photoshoot",
+    "category": "photo",
+    "description": "A creative outdoor portrait and lifestyle photography project by Frames By Kasun.\n\nThis photoshoot captures beautiful natural portraits, stylish casual outfits, expressive poses, and elegant moments with creative compositions.\n\nCombining natural lighting, outdoor surroundings, and artistic photography techniques, this collection showcases personality, confidence, and timeless visual storytelling.\n\nEvery frame is carefully captured to preserve authentic expressions and beautiful memories.\n\nPhotography by Frames By Kasun – Photography & Videography.",
+    "tags": [
+      "Portrait Photography",
+      "Outdoor Photography",
+      "Lifestyle Photography",
+      "Fashion Photography",
+      "Model Photoshoot",
+      "Creative Portraits",
+      "Natural Lighting",
+      "Casual Fashion",
+      "Professional Photography",
+      "Frames By Kasun"
+    ],
+    "media": "assets/projects/outdoor-portrait-lifestyle-photoshoot/1794482562626-screenshot-2026-11-12-165124.png",
+    "mediaType": "image",
+    "layout": "standard",
+    "published": true,
+    "featured": false,
+    "client": "Personal Project / Private Client",
+    "year": "2026",
+    "role": "",
+    "tools": "",
+    "externalUrl": "",
+    "order": 31,
+    "updatedAt": "2026-11-12T11:22:46.896Z",
+    "createdAt": "2026-11-12T11:22:46.896Z"
   }
 ]
